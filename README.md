@@ -68,9 +68,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/MattBarhou/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MattBarhou/MattBarhou/output/snake.svg" alt="Snake animation" />
-
-###
