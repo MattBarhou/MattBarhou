@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: GraphQL<br>🎯 Goals: Land an Internship<br>🎲 Fun fact: If you type the word "askew" into the Google search box, the entire page will tilt slightly.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Web3<br>🎯 Goals: Land an Internship<br>🎲 Fun fact: If you type the word "askew" into the Google search box, the entire page will tilt slightly.</p>
 
 ###
 
